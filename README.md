@@ -5,7 +5,7 @@
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Coding" width="400px" />
   <br>
 </h2>
-###My Skills
+##My Skills
 ⚡️ Java
 ⚡️ C
 ⚡️ C++
@@ -16,7 +16,7 @@
 ⚡️ Git User
 ⚡️ IntelliJ
 
-###Languages
+##Languages
 🎱 English - C1\
 🎱 German - C1\
 🎱 Russian - Native\
