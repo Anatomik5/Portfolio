@@ -6,15 +6,15 @@
   <br>
 </h2>
 ###My Skills
-⚡️ Java\
-⚡️ C\
-⚡️ C++\
-⚡️ Assembler\
-⚡️ SQL\
-⚡️ Knowledge of Algorithms\
-⚡️ Spring\
-⚡️ Git User\
-⚡️ IntelliJ\
+⚡️ Java
+⚡️ C
+⚡️ C++
+⚡️ Assembler
+⚡️ SQL
+⚡️ Knowledge of Algorithms
+⚡️ Spring
+⚡️ Git User
+⚡️ IntelliJ
 
 ###Languages
 🎱 English - C1\
