@@ -6,8 +6,10 @@
   <br>
 </h2>
 
+<h2 align="left">
 My Skills
-
+  <br>
+</h2>
 ⚡️ Java\
 ⚡️ C\
 ⚡️ C++\
@@ -19,7 +21,10 @@ My Skills
 ⚡️ IntelliJ
 
 ---
-Languages
+<h2 align="left">
+  Languages
+  <br>
+</h2>
 
 🎱 English - C1\
 🎱 German - C1\
@@ -29,9 +34,9 @@ Languages
 
 To view my Linkedin: **[click here](https://www.linkedin.com/in/alisher-darmenov-9b554520a/)**
 
-<h2 align="left">
+<h10 align="left">
   This Portfolio is created by Alisher Darmenov for work finding purposes and it is updating 
   This Portfolio is licensed under the MIT License - see the LICENSE file for details
   <br>
-</h2>
+</h10>
 
