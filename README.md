@@ -37,6 +37,7 @@ To view my Linkedin: **[click here](https://www.linkedin.com/in/alisher-darmenov
 
 <h10 align="left">
   This Portfolio is created by Alisher Darmenov for work finding purposes and it is updating 
+  <br>
   This Portfolio is licensed under the MIT License - see the LICENSE file for details
   <br>
 </h10>
