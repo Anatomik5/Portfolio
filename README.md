@@ -22,7 +22,7 @@ My Skills
 
 ---
 <h2 align="left">
-  Languages
+Languages
   <br>
 </h2>
 
