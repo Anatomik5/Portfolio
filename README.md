@@ -5,16 +5,19 @@
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Coding" width="400px" />
   <br>
 </h2>
+
 ##My Skills
-⚡️ Java
-⚡️ C
-⚡️ C++
-⚡️ Assembler
-⚡️ SQL
-⚡️ Knowledge of Algorithms
-⚡️ Spring
-⚡️ Git User
+⚡️ Java\
+⚡️ C\
+⚡️ C++\
+⚡️ Assembler\
+⚡️ SQL\
+⚡️ Knowledge of Algorithms\
+⚡️ Spring\
+⚡️ Git User\
 ⚡️ IntelliJ
+
+---
 
 ##Languages
 🎱 English - C1\
