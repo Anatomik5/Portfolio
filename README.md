@@ -29,7 +29,7 @@ Languages
 
 To view my Linkedin: **[click here](https://www.linkedin.com/in/alisher-darmenov-9b554520a/)**
 
-<h2 align="right">
+<h2 align="left">
   This Portfolio is created by Alisher Darmenov for work finding purposes and it is updating 
   This Portfolio is licensed under the MIT License - see the LICENSE file for details
   <br>
