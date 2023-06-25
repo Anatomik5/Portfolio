@@ -10,6 +10,7 @@
 My Skills
   <br>
 </h2>
+
 ⚡️ Java\
 ⚡️ C\
 ⚡️ C++\
@@ -30,7 +31,7 @@ Languages
 🎱 German - C1\
 🎱 Russian - Native\
 🎱 Kazakh - B1\
-🎱 Chinese - A1\
+🎱 Chinese - A1
 
 To view my Linkedin: **[click here](https://www.linkedin.com/in/alisher-darmenov-9b554520a/)**
 
