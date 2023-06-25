@@ -2,7 +2,7 @@
 ## Author: Alisher Darmenov
 
 <h2 align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Coding" width="600px" />
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Coding" width="400px" />
   <br>
 </h2>
 This Portfolio is created by Alisher Darmenov for work finding purposes and it is updating 
