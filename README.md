@@ -19,7 +19,7 @@ My Skills
 ⚡️ IntelliJ
 
 ---
-#Languages
+Languages
 
 🎱 English - C1\
 🎱 German - C1\
