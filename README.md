@@ -19,15 +19,15 @@ My Skills
 ⚡️ IntelliJ
 
 ---
+#Languages
 
-Languages
 🎱 English - C1\
 🎱 German - C1\
 🎱 Russian - Native\
 🎱 Kazakh - B1\
 🎱 Chinese - A1\
 
-To view my Linkedin: **[click here](https://the-simplefolio.netlify.app/](https://www.linkedin.com/in/alisher-darmenov-9b554520a/)**
+To view my Linkedin: **[click here](https://www.linkedin.com/in/alisher-darmenov-9b554520a/)**
 
 <h2 align="right">
   This Portfolio is created by Alisher Darmenov for work finding purposes and it is updating 
