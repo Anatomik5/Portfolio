@@ -1,10 +1,8 @@
 # Portfolio
 ## Author: Alisher Darmenov
-<h2 align="left">
 My Skills
   <br>
 </h2>
-
 ⚡️ Java\
 ⚡️ C\
 ⚡️ C++\
