@@ -2,7 +2,6 @@
 ## Author: Alisher Darmenov
 
 <h2 align="left">
-  <img src="[https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2F3Eqa&psig=AOvVaw0RutJYtaoWBtFIR3EY2iT0&ust=1696095686455000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIiB1_2u0IEDFQAAAAAdAAAAABAZ)" alt="Coding" width="400px" />
   <br>
 </h2>
 
