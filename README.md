@@ -3,27 +3,28 @@
 My Skills
   <br>
 </h2>
-⚡️ Java\
-⚡️ C\
-⚡️ C++\
-⚡️ Assembler\
-⚡️ SQL\
-⚡️ Knowledge of Algorithms\
-⚡️ Spring\
-⚡️ Git User\
-⚡️ IntelliJ
-
----
+⚡️ Java<br>
+⚡️ C<br>
+⚡️ C++<br>
+⚡️ Python<br>
+⚡️ Assembler<br>
+⚡️ SQL<br>
+⚡️ Knowledge of Algorithms<br>
+⚡️ Spring<br>
+⚡️ Git User<br>
+⚡️ IntelliJ<br>
+⚡️ Python<br>
+<br>
 <h2 align="left">
 Languages
   <br>
 </h2>
 
-🎱 English - C1\
-🎱 German - C1\
-🎱 Russian - Native\
-🎱 Kazakh - B1\
-🎱 Chinese - A1
+🎱 English - C1<br>
+🎱 German - C1<br>
+🎱 Russian - Native<br>
+🎱 Kazakh - B1<br>
+🎱 Chinese - A1<br>
 
 To view my Linkedin: **[click here](https://www.linkedin.com/in/alisher-darmenov-9b554520a/)**
 
