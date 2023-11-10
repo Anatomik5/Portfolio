@@ -1,0 +1,1 @@
+According to my analysis and created graphs, I can decide that we do not need all samples to perform attack. Looking to the current data, We can find all key bytes with 330 000 samples. But for more precise viewing 350 000. 
