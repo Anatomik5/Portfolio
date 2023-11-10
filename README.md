@@ -1,7 +1,8 @@
 # Portfolio
 ## Author: Alisher Darmenov
-My Skills
-  <br>
+Assignment is answers for cybersecurity execersices in theme of physical attacks on AES-128<br>
+My Skills<br>
+  
 </h2>
 ⚡️ Java<br>
 ⚡️ C<br>
