@@ -5,6 +5,7 @@ My Skills<br>
   
 </h2>
 ⚡️ Java<br>
+⚡️ MATLAB<br>
 ⚡️ C<br>
 ⚡️ C++<br>
 ⚡️ Python<br>
