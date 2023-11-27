@@ -1,0 +1,1 @@
+According to my findings, I can write that the the number of traces is depended for difference between bytes. Some difference could fast reach t-value 4.5, in the same time for other differences the 1kk of traces could be not enough for reaching t-value 4.5. 
