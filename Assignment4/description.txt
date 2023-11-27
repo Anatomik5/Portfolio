@@ -1,0 +1,29 @@
+1) i plot Mean Traces to Analyze it
+2) According to the graph I, defined the rounds
+S-Box, was defined because of 16 repeated down peaks as First all 16 Sboxes are computed
+After S-box we have ShiftRows
+Tham we have 4 Mix Columns, we can see from graph 3 dividers, I matched it with arrows
+with it this round divided by 4 
+3) 1st step of SPA was made, I detected the rounds 
+4) From varience we can see that dispersion before 52k is less. Also mult_By_2 is different, now I should look closer at this way
+5) Mixcolumns 
+2 3 1 1  
+1 2 3 1
+1 1 2 3
+3 1 1 2
+6) I should recover the first key byte using SPA.
+Step 1) x= p1 XOR c1
+Step 2) x= S-Box(x)
+Step 3) x= ShiftRow(x) -> because it is 1st byte it stays the same
+Step 4) x= MixColumn(x)
+
+We get  MixColumn(S-Box(p1 XOR c1))
+
+According to Mixcolumn our 1st byte will be multiplied by 2
+MixColumn is started in 50k and ended in 110k
+
+From the visual inspection my first Mixcolumn is between 50k to 65k
+What decreases the field of traces for my SPA 
+
+SPA.m is for Analyze
+SPA_1 Attack on 50k to 65k Mixcolumn with mult_By_2, with which I can define the difference
